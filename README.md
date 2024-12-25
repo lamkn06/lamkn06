@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lam-khuong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lam-khuong/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/plz1vcaguu7bignfw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/plz1vcaguu7bignfw/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/lamkh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/lamkh/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lam-khuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lam-khuong" height="30" width="40" /></a>
+<a href="https://fb.com/plz1vcaguu7bignfw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plz1vcaguu7bignfw" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/lamkh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/lamkh" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@lamkn06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lamkn06" height="30" width="40" /></a>
 </p>
 
